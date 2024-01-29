@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/playground.dir/playground.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "playground_modules",
+			"relative-directory" : "",
+			"source" : "/home/philipp01/work/module_playground/playground.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"dir-cur-bld" : "/home/philipp01/work/module_playground/build",
+	"dir-cur-src" : "/home/philipp01/work/module_playground",
+	"dir-top-bld" : "/home/philipp01/work/module_playground/build",
+	"dir-top-src" : "/home/philipp01/work/module_playground",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/philipp01/work/module_playground/build/CMakeFiles/playground.dir"
+}

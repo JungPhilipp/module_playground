@@ -1,0 +1,19 @@
+{
+	"modules" : 
+	{
+		"playground" : 
+		{
+			"bmi" : "/home/philipp01/work/module_playground/build/CMakeFiles/playground.dir/playground.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"playground" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/playground.dir/playground.pcm"
+		}
+	},
+	"usages" : {}
+}

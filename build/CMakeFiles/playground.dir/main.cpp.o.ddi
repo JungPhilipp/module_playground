@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/playground.dir/main.cpp.o",
+      "requires": [
+        {
+          "logical-name": "playground"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

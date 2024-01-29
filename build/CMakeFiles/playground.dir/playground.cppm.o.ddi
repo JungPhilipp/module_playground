@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/playground.dir/playground.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "playground",
+          "source-path": "/home/philipp01/work/module_playground/playground.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

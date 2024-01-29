@@ -1,0 +1,3 @@
+/home/philipp01/work/module_playground/build/CMakeFiles/playground.dir
+/home/philipp01/work/module_playground/build/CMakeFiles/edit_cache.dir
+/home/philipp01/work/module_playground/build/CMakeFiles/rebuild_cache.dir

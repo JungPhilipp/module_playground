@@ -1,0 +1,6 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/playground.dir/main.cpp.o: dyndep | CMakeFiles/playground.dir/playground.pcm
+
+build CMakeFiles/playground.dir/playground.cppm.o | CMakeFiles/playground.dir/playground.pcm: dyndep
+  restat = 1
+

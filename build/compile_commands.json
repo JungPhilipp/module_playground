@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/philipp01/work/module_playground/build",
+  "command": "/usr/bin/clang++ -std=c++20 @CMakeFiles/playground.dir/main.cpp.o.modmap -o CMakeFiles/playground.dir/main.cpp.o -c /home/philipp01/work/module_playground/main.cpp",
+  "file": "/home/philipp01/work/module_playground/main.cpp",
+  "output": "CMakeFiles/playground.dir/main.cpp.o"
+},
+{
+  "directory": "/home/philipp01/work/module_playground/build",
+  "command": "/usr/bin/clang++ -std=c++20 @CMakeFiles/playground.dir/playground.cppm.o.modmap -o CMakeFiles/playground.dir/playground.cppm.o -c /home/philipp01/work/module_playground/playground.cppm",
+  "file": "/home/philipp01/work/module_playground/playground.cppm",
+  "output": "CMakeFiles/playground.dir/playground.cppm.o"
+}
+]
